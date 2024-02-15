@@ -9,7 +9,7 @@ export function Control(props: ControlProps) {
   const { id, onFilesSelected } = useFileInput()
 
   function handleFilesSelected(event: ChangeEvent<HTMLInputElement>) {
-    if (event.target.files?.length) {
+    if (!event.target.files?.length) {
       return
     }
 
