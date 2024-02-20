@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Masterizando Tailwind
 
-First, run the development server:
+Esse projeto visa apresentar e aprofundar o conhecimento na ferramenta Tailwind CSS.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Projeto em light mode e mobile
+![Screenshot_4](https://github.com/flavioaugusto1/tailwind-project/assets/54561399/e9c00f93-bd2e-479e-b33b-b1d55e90ded0)
+![Screenshot_6](https://github.com/flavioaugusto1/tailwind-project/assets/54561399/0189e5cd-f11f-4a16-95e2-4f2bf9ac56b7)
+![Screenshot_7](https://github.com/flavioaugusto1/tailwind-project/assets/54561399/c0671ba7-6b3b-4977-a128-9ef345e2e704)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Projeto em dark mode e mobile
+![Screenshot_8](https://github.com/flavioaugusto1/tailwind-project/assets/54561399/8fd1ba7a-56b3-4488-ab22-b3e4292bd0cd)
+![Screenshot_5](https://github.com/flavioaugusto1/tailwind-project/assets/54561399/df6dd703-0683-43d0-9049-1d4533f75771)
+![image](https://github.com/flavioaugusto1/tailwind-project/assets/54561399/93afb39f-6d07-4f4a-8929-60f52c25329a)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
