@@ -1,6 +1,8 @@
+import { ThemeChanger } from '../../utils/ThemeChanger'
+
 export function Logo() {
   return (
-    <strong className="mx-1 flex items-center gap-2 text-xl font-semibold text-zinc-900 dark:text-zinc-100">
+    <strong className="mx-1 flex w-full items-center gap-2 text-xl font-semibold text-zinc-900 dark:text-zinc-100">
       <svg
         width={38}
         height={38}
@@ -204,7 +206,10 @@ export function Logo() {
         </defs>
       </svg>
 
-      <span>Untitled UI</span>
+      <div className="flex w-full items-center justify-between">
+        <span>Untitled UI</span>
+        <ThemeChanger />
+      </div>
     </strong>
   )
 }
